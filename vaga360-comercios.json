@@ -1,0 +1,21 @@
+[
+  {
+    "1": {
+      "name": "lorem ipsum",
+      "category": "restaurante",
+      "logo": "",
+      "contact-number": "22577777",
+      "schedule": {"day": {"open": 10, "close": 9}, "day2": {"open": 10, "close": 9}},
+      "delivery": false,
+      "address": "",
+      "city": "santa tecla",
+      "department": "la libertad",
+      "featured-images": ["url1", "url2"],
+      "description": "Ipsam quaerat laboriosam sequi ad facilis. Omnis occaecati in reprehenderit sunt et ipsa quia. Qui voluptatem eos consectetur perferendis. Non neque error et. Et sed aut corporis architecto molestiae repellat. Occaecati fugiat et mollitia accusamus nobis aliquid.",
+      "tip": 12,
+      "prices": {"item": {"product": "product name", "price": 10.50, "item-description": "lorem ipsum dolor sit amet"}},
+      "social": {"facebook": "url", "twitter": "url", "instagram": "url"},
+      "businesses": null
+    }
+  }
+]
