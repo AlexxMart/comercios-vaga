@@ -13,7 +13,7 @@
     "featuredImages": ["url1", "url2"],
     "description": "Ipsam quaerat laboriosam sequi ad facilis. Omnis occaecati in reprehenderit sunt et ipsa quia. Qui voluptatem eos consectetur perferendis. Non neque error et. Et sed aut corporis architecto molestiae repellat. Occaecati fugiat et mollitia accusamus nobis aliquid.",
     "tip": 12,
-    "prices": [["item", "1000", "description"], ["item", "2000", "description"]],
+    "prices": [["item", "10.50", "description"], ["item", "20.00", "description"]],
     "social": [["facebook", "url"], ["twitter", "url"], ["instagram", "url"]],
     "businesses": null
   },
@@ -31,7 +31,7 @@
     "featuredImages": ["url1", "url2"],
     "description": "Ipsam quaerat laboriosam sequi ad facilis. Omnis occaecati in reprehenderit sunt et ipsa quia. Qui voluptatem eos consectetur perferendis. Non neque error et. Et sed aut corporis architecto molestiae repellat. Occaecati fugiat et mollitia accusamus nobis aliquid.",
     "tip": 12,
-    "prices": [["item", "1000", "description"], ["item", "2000", "description"]],
+    "prices": [["item", "10.50", "description"], ["item", "20.00", "description"]],
     "social": [["facebook", "url"], ["twitter", "url"], ["instagram", "url"]],
     "businesses": null
   },
@@ -49,7 +49,7 @@
     "featuredImages": ["url1", "url2"],
     "description": "Ipsam quaerat laboriosam sequi ad facilis. Omnis occaecati in reprehenderit sunt et ipsa quia. Qui voluptatem eos consectetur perferendis. Non neque error et. Et sed aut corporis architecto molestiae repellat. Occaecati fugiat et mollitia accusamus nobis aliquid.",
     "tip": 12,
-    "prices": [["item", "1000", "description"], ["item", "2000", "description"]],
+    "prices": [["item", "10.50", "description"], ["item", "20.00", "description"]],
     "social": [["facebook", "url"], ["twitter", "url"], ["instagram", "url"]],
     "businesses": null
   },
@@ -60,14 +60,14 @@
     "logo": "https://s3.amazonaws.com/vaga360images/mall-min.jpg",
     "contactNumber": "22577777",
     "schedule": [["domingo", "10:00", "21:00"], ["lunes", "10:00", "19:00"]],
-    "delivery": false,
+    "delivery": null,
     "address": "",
     "city": "santa tecla",
     "department": "la libertad",
     "featuredImages": ["url1", "url2"],
     "description": "Ipsam quaerat laboriosam sequi ad facilis. Omnis occaecati in reprehenderit sunt et ipsa quia. Qui voluptatem eos consectetur perferendis. Non neque error et. Et sed aut corporis architecto molestiae repellat. Occaecati fugiat et mollitia accusamus nobis aliquid.",
     "tip": null,
-    "prices": [["item", "1000", "description"], ["item", "2000", "description"]],
+    "prices": null,
     "social": [["facebook", "url"], ["twitter", "url"], ["instagram", "url"]],
     "businesses": ["local1", "local2", "local3"]
   },
@@ -85,7 +85,7 @@
     "featuredImages": ["url1", "url2"],
     "description": "Ipsam quaerat laboriosam sequi ad facilis. Omnis occaecati in reprehenderit sunt et ipsa quia. Qui voluptatem eos consectetur perferendis. Non neque error et. Et sed aut corporis architecto molestiae repellat. Occaecati fugiat et mollitia accusamus nobis aliquid.",
     "tip": 12,
-    "prices": [["item", "1000", "description"], ["item", "2000", "description"]],
+    "prices": [["item", "10.50", "description"], ["item", "20.00", "description"]],
     "social": [["facebook", "url"], ["twitter", "url"], ["instagram", "url"]],
     "businesses": null
   },
@@ -103,7 +103,7 @@
     "featuredImages": ["url1", "url2"],
     "description": "Ipsam quaerat laboriosam sequi ad facilis. Omnis occaecati in reprehenderit sunt et ipsa quia. Qui voluptatem eos consectetur perferendis. Non neque error et. Et sed aut corporis architecto molestiae repellat. Occaecati fugiat et mollitia accusamus nobis aliquid.",
     "tip": 12,
-    "prices": [["item", "1000", "description"], ["item", "2000", "description"]],
+    "prices": [["item", "10.50", "description"], ["item", "20.00", "description"]],
     "social": [["facebook", "url"], ["twitter", "url"], ["instagram", "url"]],
     "businesses": null
   }
