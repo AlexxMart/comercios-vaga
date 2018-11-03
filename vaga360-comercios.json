@@ -5,7 +5,7 @@
     "category": "restaurante",
     "logo": "https://s3.amazonaws.com/vaga360images/restaurant-min.png",
     "contactNumber": "22577777",
-    "schedule": {"0": {"day": "Domingo", "open": 1000, "close": 1900}, "1": {"day": "Lunes", "open": 1000, "close": 1900}, "2": {"day": "Martes", "open": 1000, "close": 1900}, "3": {"day": "Miércoles", "open": 1000, "close": 1900}, "4": {"day": "Jueves", "open": 1000, "close": 1900}, "5": {"day": "Viernes", "open": 1000, "close": 2100}, "6": {"day": "Sábado", "open": 1000, "close": 2100}},
+    "schedule": [["domingo", 1000, 2100], ["lunes", 1000, 1900]],
     "delivery": false,
     "address": "",
     "city": "santa tecla",
@@ -13,8 +13,8 @@
     "featuredImages": ["url1", "url2"],
     "description": "Ipsam quaerat laboriosam sequi ad facilis. Omnis occaecati in reprehenderit sunt et ipsa quia. Qui voluptatem eos consectetur perferendis. Non neque error et. Et sed aut corporis architecto molestiae repellat. Occaecati fugiat et mollitia accusamus nobis aliquid.",
     "tip": 12,
-    "prices": {"item": {"product": "product name", "price": 10.50, "item-description": "lorem ipsum dolor sit amet"}},
-    "social": {"facebook": "url", "twitter": "url", "instagram": "url"},
+    "prices": [["item", "1000", "description"], ["item", "2000", "description"]],
+    "social": [["facebook", "url"], ["twitter", "url"], ["instagram", "url"]],
     "businesses": null
   },
   {
@@ -23,7 +23,7 @@
     "category": "cafetería",
     "logo": "https://s3.amazonaws.com/vaga360images/coffee-min.jpeg",
     "contactNumber": "22577777",
-    "schedule": {"0": {"day": "Domingo", "open": 1000, "close": 1900}, "1": {"day": "Lunes", "open": 1000, "close": 1900}, "2": {"day": "Martes", "open": 1000, "close": 1900}, "3": {"day": "Miércoles", "open": 1000, "close": 1900}, "4": {"day": "Jueves", "open": 1000, "close": 1900}, "5": {"day": "Viernes", "open": 1000, "close": 2100}, "6": {"day": "Sábado", "open": 1000, "close": 2100}},
+    "schedule": [["domingo", 1000, 2100], ["lunes", 1000, 1900]],
     "delivery": false,
     "address": "",
     "city": "santa tecla",
@@ -31,8 +31,8 @@
     "featuredImages": ["url1", "url2"],
     "description": "Ipsam quaerat laboriosam sequi ad facilis. Omnis occaecati in reprehenderit sunt et ipsa quia. Qui voluptatem eos consectetur perferendis. Non neque error et. Et sed aut corporis architecto molestiae repellat. Occaecati fugiat et mollitia accusamus nobis aliquid.",
     "tip": 12,
-    "prices": {"item": {"product": "product name", "price": 10.50, "item-description": "lorem ipsum dolor sit amet"}},
-    "social": {"facebook": "url", "twitter": "url", "instagram": "url"},
+    "prices": [["item", "1000", "description"], ["item", "2000", "description"]],
+    "social": [["facebook", "url"], ["twitter", "url"], ["instagram", "url"]],
     "businesses": null
   },
   {
@@ -41,7 +41,7 @@
     "category": "bar",
     "logo": "https://s3.amazonaws.com/vaga360images/beer-min.jpeg",
     "contactNumber": "22577777",
-    "schedule": {"0": {"day": "Domingo", "open": 1000, "close": 1900}, "1": {"day": "Lunes", "open": 1000, "close": 1900}, "2": {"day": "Martes", "open": 1000, "close": 1900}, "3": {"day": "Miércoles", "open": 1000, "close": 1900}, "4": {"day": "Jueves", "open": 1000, "close": 1900}, "5": {"day": "Viernes", "open": 1000, "close": 2100}, "6": {"day": "Sábado", "open": 1000, "close": 2100}},
+    "schedule": [["domingo", 1000, 2100], ["lunes", 1000, 1900]],
     "delivery": false,
     "address": "",
     "city": "santa tecla",
@@ -49,8 +49,8 @@
     "featuredImages": ["url1", "url2"],
     "description": "Ipsam quaerat laboriosam sequi ad facilis. Omnis occaecati in reprehenderit sunt et ipsa quia. Qui voluptatem eos consectetur perferendis. Non neque error et. Et sed aut corporis architecto molestiae repellat. Occaecati fugiat et mollitia accusamus nobis aliquid.",
     "tip": 12,
-    "prices": {"item": {"product": "product name", "price": 10.50, "item-description": "lorem ipsum dolor sit amet"}},
-    "social": {"facebook": "url", "twitter": "url", "instagram": "url"},
+    "prices": [["item", "1000", "description"], ["item", "2000", "description"]],
+    "social": [["facebook", "url"], ["twitter", "url"], ["instagram", "url"]],
     "businesses": null
   },
   {
@@ -59,7 +59,7 @@
     "category": "centro comercial",
     "logo": "https://s3.amazonaws.com/vaga360images/mall-min.jpg",
     "contactNumber": "22577777",
-    "schedule": {"0": {"day": "Domingo", "open": 1000, "close": 1900}, "1": {"day": "Lunes", "open": 1000, "close": 1900}, "2": {"day": "Martes", "open": 1000, "close": 1900}, "3": {"day": "Miércoles", "open": 1000, "close": 1900}, "4": {"day": "Jueves", "open": 1000, "close": 1900}, "5": {"day": "Viernes", "open": 1000, "close": 2100}, "6": {"day": "Sábado", "open": 1000, "close": 2100}},
+    "schedule": [["domingo", 1000, 2100], ["lunes", 1000, 1900]],
     "delivery": false,
     "address": "",
     "city": "santa tecla",
@@ -67,8 +67,8 @@
     "featuredImages": ["url1", "url2"],
     "description": "Ipsam quaerat laboriosam sequi ad facilis. Omnis occaecati in reprehenderit sunt et ipsa quia. Qui voluptatem eos consectetur perferendis. Non neque error et. Et sed aut corporis architecto molestiae repellat. Occaecati fugiat et mollitia accusamus nobis aliquid.",
     "tip": null,
-    "prices": null,
-    "social": {"facebook": "url", "twitter": "url", "instagram": "url"},
+    "prices": [["item", "1000", "description"], ["item", "2000", "description"]],
+    "social": [["facebook", "url"], ["twitter", "url"], ["instagram", "url"]],
     "businesses": ["local1", "local2", "local3"]
   },
   {
@@ -77,7 +77,7 @@
     "category": "hotel",
     "logo": "https://s3.amazonaws.com/vaga360images/hotel-min.jpeg",
     "contactNumber": "22577777",
-    "schedule": {"0": {"day": "Domingo", "open": 1000, "close": 1900}, "1": {"day": "Lunes", "open": 1000, "close": 1900}, "2": {"day": "Martes", "open": 1000, "close": 1900}, "3": {"day": "Miércoles", "open": 1000, "close": 1900}, "4": {"day": "Jueves", "open": 1000, "close": 1900}, "5": {"day": "Viernes", "open": 1000, "close": 2100}, "6": {"day": "Sábado", "open": 1000, "close": 2100}},
+    "schedule": [["domingo", 1000, 2100], ["lunes", 1000, 1900]],
     "delivery": false,
     "address": "",
     "city": "santa tecla",
@@ -85,8 +85,8 @@
     "featuredImages": ["url1", "url2"],
     "description": "Ipsam quaerat laboriosam sequi ad facilis. Omnis occaecati in reprehenderit sunt et ipsa quia. Qui voluptatem eos consectetur perferendis. Non neque error et. Et sed aut corporis architecto molestiae repellat. Occaecati fugiat et mollitia accusamus nobis aliquid.",
     "tip": 12,
-    "prices": {"item": {"product": "product name", "price": 10.50, "item-description": "lorem ipsum dolor sit amet"}},
-    "social": {"facebook": "url", "twitter": "url", "instagram": "url"},
+    "prices": [["item", "1000", "description"], ["item", "2000", "description"]],
+    "social": [["facebook", "url"], ["twitter", "url"], ["instagram", "url"]],
     "businesses": null
   },
   {
@@ -95,7 +95,7 @@
     "category": "auto hotel",
     "logo": "https://s3.amazonaws.com/vaga360images/auto-hotel-min.JPG",
     "contactNumber": "22577777",
-    "schedule": {"0": {"day": "Domingo", "open": 1000, "close": 1900}, "1": {"day": "Lunes", "open": 1000, "close": 1900}, "2": {"day": "Martes", "open": 1000, "close": 1900}, "3": {"day": "Miércoles", "open": 1000, "close": 1900}, "4": {"day": "Jueves", "open": 1000, "close": 1900}, "5": {"day": "Viernes", "open": 1000, "close": 2100}, "6": {"day": "Sábado", "open": 1000, "close": 2100}},
+    "schedule": [["domingo", 1000, 2100], ["lunes", 1000, 1900]],
     "delivery": false,
     "address": "",
     "city": "santa tecla",
@@ -103,8 +103,8 @@
     "featuredImages": ["url1", "url2"],
     "description": "Ipsam quaerat laboriosam sequi ad facilis. Omnis occaecati in reprehenderit sunt et ipsa quia. Qui voluptatem eos consectetur perferendis. Non neque error et. Et sed aut corporis architecto molestiae repellat. Occaecati fugiat et mollitia accusamus nobis aliquid.",
     "tip": 12,
-    "prices": {"item": {"product": "product name", "price": 10.50, "item-description": "lorem ipsum dolor sit amet"}},
-    "social": {"facebook": "url", "twitter": "url", "instagram": "url"},
+    "prices": [["item", "1000", "description"], ["item", "2000", "description"]],
+    "social": [["facebook", "url"], ["twitter", "url"], ["instagram", "url"]],
     "businesses": null
   }
 ]
