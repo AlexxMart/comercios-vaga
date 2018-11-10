@@ -55,24 +55,6 @@
   },
   {
     "id": 4,
-    "name": "centro comercial uno",
-    "category": "centro comercial",
-    "logo": "https://s3.amazonaws.com/vaga360images/mall-min.jpg",
-    "contactNumber": "22001234",
-    "schedule": [["sábado - domingo", "10:00", "21:00"], ["lunes - viernes", "10:00", "19:00"]],
-    "delivery": null,
-    "address": "",
-    "city": "santa tecla",
-    "department": "la libertad",
-    "featuredImages": ["url1", "url2"],
-    "description": "Ipsam quaerat laboriosam sequi ad facilis. Omnis occaecati in reprehenderit sunt et ipsa quia. Qui voluptatem eos consectetur perferendis. Non neque error et. Et sed aut corporis architecto molestiae repellat. Occaecati fugiat et mollitia accusamus nobis aliquid.",
-    "tip": null,
-    "prices": null,
-    "social": [["facebook", "url"], ["twitter", "url"], ["instagram", "url"]],
-    "businesses": ["local1", "local2", "local3"]
-  },
-  {
-    "id": 5,
     "name": "hotel uno",
     "category": "hotel",
     "logo": "https://s3.amazonaws.com/vaga360images/hotel-min.jpeg",
@@ -90,7 +72,7 @@
     "businesses": null
   },
   {
-    "id": 6,
+    "id": 5,
     "name": "auto hotel uno",
     "category": "auto hotel",
     "logo": "https://s3.amazonaws.com/vaga360images/auto-hotel-min.JPG",
