@@ -73,8 +73,8 @@
   },
   {
     "id": 5,
-    "name": "auto hotel uno",
-    "category": "auto hotel",
+    "name": "hospedaje uno",
+    "category": "hospedaje",
     "logo": "https://s3.amazonaws.com/vaga360images/auto-hotel-min.JPG",
     "contactNumber": "22001234",
     "schedule": [["sábado - domingo", "10:00", "21:00"], ["lunes - viernes", "10:00", "19:00"]],
