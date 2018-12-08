@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "restaurante uno",
+    "name": "el nombre de tu negocio",
     "category": "restaurante",
     "logo": "https://s3.amazonaws.com/vaga360images/restaurant-min.png",
     "contactNumber": "22001234",
@@ -19,7 +19,7 @@
   },
   {
     "id": 2,
-    "name": "cafeteria uno",
+    "name": "el nombre de tu negocio",
     "category": "cafetería",
     "logo": "https://s3.amazonaws.com/vaga360images/coffee-min.jpeg",
     "contactNumber": "22001234",
@@ -37,7 +37,7 @@
   },
   {
     "id": 3,
-    "name": "bar uno",
+    "name": "el nombre de tu negocio",
     "category": "bar",
     "logo": "https://s3.amazonaws.com/vaga360images/beer-min.jpeg",
     "contactNumber": "22001234",
@@ -55,7 +55,7 @@
   },
   {
     "id": 4,
-    "name": "hotel uno",
+    "name": "el nombre de tu negocio",
     "category": "hotel",
     "logo": "https://s3.amazonaws.com/vaga360images/hotel-min.jpeg",
     "contactNumber": "22001234",
@@ -73,7 +73,7 @@
   },
   {
     "id": 5,
-    "name": "hospedaje uno",
+    "name": "el nombre de tu negocio",
     "category": "hospedaje",
     "logo": "https://s3.amazonaws.com/vaga360images/auto-hotel-min.JPG",
     "contactNumber": "22001234",
