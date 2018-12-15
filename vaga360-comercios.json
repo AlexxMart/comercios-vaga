@@ -20,7 +20,7 @@
   {
     "id": 2,
     "name": "cafetería",
-    "category": "cafetería",
+    "category": "café",
     "logo": "https://s3.amazonaws.com/vaga360images/coffee-min.jpeg",
     "contactNumber": "22001234",
     "schedule": [["sábado - domingo", "10:00", "21:00"], ["lunes - viernes", "10:00", "19:00"]],
@@ -92,7 +92,7 @@
   {
     "id": 6,
     "name": "tin",
-    "category": "cafetería",
+    "category": "café",
     "logo": "https://s3.amazonaws.com/vaga360images/space.jpg",
     "contactNumber": "22001234",
     "schedule": [["lunes - viernes", "10:00", "19:00"], ["sabado - domingo", "10:00", "19:00"]],
