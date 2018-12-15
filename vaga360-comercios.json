@@ -93,7 +93,7 @@
     "id": 6,
     "name": "tin",
     "category": "cafetería",
-    "logo": "https://s3.amazonaws.com/vaga360images/auto-hotel-min.JPG",
+    "logo": "https://s3.amazonaws.com/vaga360images/space.jpg",
     "contactNumber": "22001234",
     "schedule": [["lunes - viernes", "10:00", "19:00"], ["sabado - domingo", "10:00", "19:00"]],
     "delivery": null,
