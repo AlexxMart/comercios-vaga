@@ -88,23 +88,5 @@
     "prices": [["item", "10.50", "description"], ["item", "20.00", "description"]],
     "social": [["facebook", "url"], ["twitter", "url"], ["instagram", "url"]],
     "businesses": null
-  },
-  {
-    "id": 6,
-    "name": "tin",
-    "category": "café",
-    "logo": "https://s3.amazonaws.com/vaga360images/space.jpg",
-    "contactNumber": "22001234",
-    "schedule": [["lunes - viernes", "10:00", "19:00"], ["sabado - domingo", "10:00", "19:00"]],
-    "delivery": null,
-    "address": "",
-    "city": "santa tecla",
-    "department": "la libertad",
-    "featuredImages": ["url1", "url2"],
-    "description": "Ipsam quaerat laboriosam sequi ad facilis. Omnis occaecati in reprehenderit sunt et ipsa quia. Qui voluptatem eos consectetur perferendis. Non neque error et. Et sed aut corporis architecto molestiae repellat. Occaecati fugiat et mollitia accusamus nobis aliquid.",
-    "tip": 10,
-    "prices": [["item", "10.50", "description"], ["item", "20.00", ""]],
-    "social": [["facebook", "url"]],
-    "businesses": null
   }
 ]
